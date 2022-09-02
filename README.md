@@ -1,7 +1,7 @@
 # Hello there ⚡
 
 ***
-### 🦆🐣🐤🐧🐦🦉🐥🦜🦅🕊🐓 [Chilean birds](https://chilean-birds.vercel.app)
+### 🐤 [Chilean birds](https://chilean-birds.vercel.app)
 🔸 [View code](https://github.com/cabp393/chilean-birds)
 
 + Loading
