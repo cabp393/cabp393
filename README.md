@@ -27,7 +27,7 @@
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://spacex-drab.vercel.app)
 
 ***
-### ☔ [Clima](cabp393.github.io/clima/)
+### ☔ [Clima](https://cabp393.github.io/clima/)
 🔸 [View code](https://github.com/cabp393/clima)
 
 + Input fetch
