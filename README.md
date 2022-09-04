@@ -1,12 +1,14 @@
 # Hello there ⚡
 
+
+
 ***
 ### 🐤 [Chilean birds](https://chilean-birds.vercel.app)
 🔸 [View code](https://github.com/cabp393/chilean-birds)
 
 + Loading
 
-[![Astro](https://img.shields.io/badge/-Astro-%23171424?style=flat&logo=astro)](https://chilean-birds.vercel.app)
+[![Astro](https://img.shields.io/badge/-astro-%23171424?style=flat&logo=astro)](https://chilean-birds.vercel.app)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://chilean-birds.vercel.app)
 
 ***
@@ -35,6 +37,7 @@
 
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=yellow)](https://cabp393.github.io/clima/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://cabp393.github.io/clima/)
+[![GitHub pages](https://img.shields.io/badge/gh%20pages-%23121011.svg?style=flat&logo=github&logoColor=white)](https://cabp393.github.io/clima/)
 
 ***
 ### 😹 [Only cats](https://cabp393.github.io/onlycats/)
@@ -47,6 +50,8 @@
 
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=yellow)](https://cabp393.github.io/onlycats/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://cabp393.github.io/onlycats/)
+[![GitHub pages](https://img.shields.io/badge/gh%20pages-%23121011.svg?style=flat&logo=github&logoColor=white)](https://cabp393.github.io/onlycats/)
+
 
 ***
 ### 📝 [To do list](https://cabp393.github.io/todolist/)
@@ -60,6 +65,8 @@
 
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=yellow)](https://cabp393.github.io/todolist/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://cabp393.github.io/todolist/)
+[![GitHub pages](https://img.shields.io/badge/gh%20pages-%23121011.svg?style=flat&logo=github&logoColor=white)](https://cabp393.github.io/todolist/)
+
 
 
 
