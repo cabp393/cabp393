@@ -38,6 +38,7 @@
 ***
 ### 📝 To do list
 🔸 [View code](https://github.com/cabp393/todolist)
+UseState, UseEffect , LocalStorage
 
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=yellow)](https://cabp393.github.io/todolist/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://cabp393.github.io/todolist/)
